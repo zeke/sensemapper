@@ -2,5 +2,10 @@
 
 A very basic prototype for the moment.
 
-= Run it
+= Running the script
 
+It's assumed that you have ruby and git set up.
+
+  sudo gem install httparty colored
+  git clone git@github.com:zeke/sensemapper.git
+  ruby sensemapper/senses.rb
